@@ -5,9 +5,9 @@ cli-notes-app
 How to run:(Nodejs must be installed on the system)
 
 To install node:
--goto https://nodejs.org/en/download/ and download the setup suited for your machine.
--after downloading, run the setup and finish installing.
--to check if it is installed, goto any CLI and type ```node -v```
+### -goto https://nodejs.org/en/download/ and download the setup suited for your machine.
+### -after downloading, run the setup and finish installing.
+### -to check if it is installed, goto any CLI and type ```node -v```
 
 How to run: open terminal and run the following=>
 
